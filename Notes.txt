@@ -1,0 +1,5 @@
+redux/actions/actionTypes: Contains the action type names
+redux/actions/counterActions: Contains the actions and payloads
+redux/reducers/counterReducer: Contains the cases. You are writing what to do with the payloads in here
+redux/reducers/index: Combining the reducers
+redux/reducers/configureStore: Creating store with the combined reducers
